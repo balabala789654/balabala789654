@@ -6,7 +6,7 @@
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](2216953145lx@gmail.com)
 
 <p>
-<img src="./pic/wallhaven-2ywd3y.png"/>
+<img src="https://github.com/balabala789654/balabala789654/blob/main/pic/wallhaven-2ywd3y.png"/>
 </p>
 
 <p>
