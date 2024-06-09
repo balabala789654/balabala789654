@@ -6,8 +6,10 @@
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](2216953145lx@gmail.com)
 
 <p>
-<img width = "500" height = "auto" src="./pic/wallhaven-2ywd3y.png"/>
+<img src="./pic/wallhaven-2ywd3y.png"/>
+</p>
 
+<p>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=balabala789654&show_icons=true&hide_border=false" />
 
 <img src = "https://github-readme-stats.vercel.app/api?username=balabala789654&show_icons=true&theme=radical&layout=normal" />
