@@ -7,14 +7,10 @@
 
 <p>
 <img width = "500" height = "auto" src="./pic/wallhaven-2ywd3y.png"/>
-</p>
 
-<p>
-<img align = "left" width = "230" height = "auto" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=balabala789654&show_icons=true&hide_border=false" />
-</p>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=balabala789654&show_icons=true&hide_border=false" />
 
-<p>
-<img align = "right" width = "250" height = "800" src = "https://github-readme-stats.vercel.app/api?username=balabala789654&show_icons=true&theme=radical&layout=normal" />
+<img src = "https://github-readme-stats.vercel.app/api?username=balabala789654&show_icons=true&theme=radical&layout=normal" />
 
 </p>
 
