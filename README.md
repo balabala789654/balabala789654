@@ -10,9 +10,10 @@
 </p>
 
 <p>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=balabala789654&show_icons=true&hide_border=false" />
 
 <img src = "https://github-readme-stats.vercel.app/api?username=balabala789654&show_icons=true&theme=radical&layout=normal" />
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=balabala789654&show_icons=true&hide_border=false" />
 
 </p>
 
