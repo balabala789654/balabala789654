@@ -1,5 +1,5 @@
-# LEX
--  :office: shool: ncist
+# LEX 👋
+-  :office:🤖 Robotics 🤖
 -  :globe_with_meridians: qq:2216953145
 -  :love_letter: e-mail: 2216953145lx@gmail.com
 - [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/balabala789654)
@@ -10,11 +10,8 @@
 </p>
 
 <p>
-
 <img src = "https://github-readme-stats.vercel.app/api?username=balabala789654&show_icons=true&theme=radical&layout=normal" />
-
 <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=balabala789654&show_icons=true&hide_border=false" />
-
 </p>
 
 <!-- <code>
