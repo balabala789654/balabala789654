@@ -1,7 +1,5 @@
 # LEX 👋
--  :office:🤖 Robotics 🤖
--  :globe_with_meridians: qq:2216953145
--  :love_letter: e-mail: 2216953145lx@gmail.com
+- 🤖 Robotics 🤖
 - [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/balabala789654)
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](2216953145lx@gmail.com)
 
