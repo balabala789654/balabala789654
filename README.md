@@ -12,22 +12,14 @@
 </p>
 
 <p align="center">
+<img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" />
-
-</p>
-
-<p align="center">
-
-[![Lex's GitHub stats](https://github-readme-stats.vercel.app/api?username=balabala789654&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-
-</p>
+<p align="center">[![Lex's GitHub stats](https://github-readme-stats.vercel.app/api?username=balabala789654&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=balabala789654&repo=Robotic_arm)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=balabala789654&repo=Nav_Slam_Drone)](https://github.com/anuraghazra/github-readme-stats)  
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=balabala789654&repo=Nav_Slam_Drone)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
