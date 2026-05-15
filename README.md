@@ -1,30 +1,26 @@
-<h1 align="center">Lex<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1>Hi There! I'm Lex<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<p align="center">🤖 Robotics 🤖  </P>
+<ul>
+    <li><i>A graduate student from <b>HFUT</b></i></li>
+    <li><i>Research focus is <b>semiconductor inspection</b></i></li>
+    <li><i>Interesting in <b>AI, Deep Learning, Robotics</b></i></li>
+</ul>
 
+<h2>Skills</h2>
 
-<p align="center"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white">
+<ul>
+    <li>LumericalFDTD</li>
+    <li>ROS</li>
+    <li>Embedded</li>
+    <li>RTOS (FreeRTOS, RTthread)</li>
+</ul>
+<h2>Links</h2>
+
+<p> <a href="https://github.com/balabala789654"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
-</p>
+<a href="https://x.com/mmmvvv80789224"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmmmvvv80789224"></a></p>
 
-<p align="center">
-<img src="https://profile-counter.deno.dev/:balabala789654:/count.svg" alt="balabala789654:: Visitor's Count" /></p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=balabala789654&show_icons=true&theme=tokyonight">
+<p>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmIwaTE3NGRtdmE4dXZwaXExOHFmdDV0ajlxZ3Zka3ozd2ZzNHhmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jdFm2bcWlj4EUVCpc0/giphy.gif" height="200">
 <p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=balabala789654&repo=Robotic_arm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=balabala789654&repo=Nav_Slam_Drone">
-</p>
-
-
-<p align="center">
-<img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500">
-</p>
-
-
-<!-- <code>
-    <img width = 50% src = "https://www.vectorlogo.zone/logos/github/github-ar21.svg">
-</code> -->
